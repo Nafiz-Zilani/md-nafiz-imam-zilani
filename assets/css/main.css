@@ -1473,9 +1473,3 @@ section,
 .contact .php-email-form button[type=submit]:hover {
   background: color-mix(in srgb, var(--accent-color), transparent 20%);
 }
-
-
-/* Extraaa */
-.sitename{
-  
-}
